@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Laura 👋 </h1>
+<h3 align="center">Front End Developer </h3>
+<div>
+<div align="left"> 
+  <h3> ♥️💻 About Me </h3>
 
-<!--
-**lalidiaz/lalidiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Front End Development Coding Bootcamp.
+  - 💼 &nbsp; I’m currently looking for my first experience as a Front End Developer
+  - 🌱 &nbsp; Learning more about new technologies and Frontend Developement.
+</div> 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+    ⚡️Javascript, ReactJs, Redux, NextJs, HTML5, CSS, Git, Github. 
+  <p>
+</div> 
