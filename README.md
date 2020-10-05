@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer </h3>
 <div>
 <div align="left"> 
-  <h3> ♥️💻 About Me </h3>
+  <h3> 💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Front End Development Coding Bootcamp.
