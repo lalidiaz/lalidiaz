@@ -6,7 +6,7 @@
 
   - 🤔 &nbsp; Exploring new technologies.
   - 🎓 &nbsp; Front End Development Coding Bootcamp.
-  - 💼 &nbsp; I’m currently looking for my first experience as a Front End Developer
+  - 💼 &nbsp; I’m currently working and a freelance and looking for a job as a Front End Developer 
   - 🌱 &nbsp; Learning more about new technologies and Frontend Developement, learning React Native and working on mobile apps 📲.
 </div> 
 </div>
