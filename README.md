@@ -7,7 +7,7 @@
   - 🤔 &nbsp; Exploring new technologies.
   - 🎓 &nbsp; Front End Development Coding Bootcamp.
   - 💼 &nbsp; I’m currently working as a freelance and looking for a job as a Front End Developer 
-  - 🌱 &nbsp; Learning more about new technologies and Frontend Developement, learning React Native and working on mobile apps 📲.
+  - 🌱 &nbsp; Learning more about new technologies and Frontend Developement. Studying Python at the moment. 📲.
 </div> 
 </div>
 
