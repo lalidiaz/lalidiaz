@@ -14,7 +14,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-    ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git, Github. 
+    ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git. 
     
   <p>
 </div> 
