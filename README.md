@@ -13,8 +13,9 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-    ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git. 
-    💻 My [portfolio](https://laura-diaz-dev-af1e1.web.app/)
-    
+    ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git.
   <p>
+    <p>
+   💻  My portfolio: https://laura-diaz-dev-af1e1.web.app
+  </p>
 </div> 
