@@ -15,5 +15,6 @@
   <p>
     ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git. 
     💻 My [portfolio](https://laura-diaz-dev-af1e1.web.app/)
+    
   <p>
 </div> 
