@@ -4,7 +4,7 @@
 <div align="left"> 
   <h3> 💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies.
+  - 🤔 &nbsp; Always trying to learn something.
   - 🎓 &nbsp; Front End Development Coding Bootcamp.
   - 💼 &nbsp; I’m currently working as a Front-end Developer. 
 </div> 
