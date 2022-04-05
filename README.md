@@ -7,7 +7,6 @@
   - 🤔 &nbsp; Exploring new technologies.
   - 🎓 &nbsp; Front End Development Coding Bootcamp.
   - 💼 &nbsp; I’m currently working as a Front-end Developer. 
-  - 🌱 &nbsp; Learning Nodejs
 </div> 
 </div>
 
