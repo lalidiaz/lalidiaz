@@ -13,7 +13,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-    ⚡️Javascript, ReactJs, Redux, NextJs,React Native, HTML5, CSS, Git.
+    ⚡️Javascript, ReactJs, Redux, NextJs, HTML5, CSS, Git.
   <p>
     <p>
    💻  My portfolio: https://lauradiazdev.com/
