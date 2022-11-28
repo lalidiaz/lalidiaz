@@ -7,6 +7,7 @@
   - 🌻 &nbsp; Always trying to learn something.
   - 👩🏽‍💻 &nbsp; Front End Development Coding Bootcamp.
   - 🥰 &nbsp; I’m currently working as a Frontend Developer. 
+  - 📚 &nbsp; Learning Nodejs at the moment.
 </div> 
 </div>
 
