@@ -3,11 +3,7 @@
 <div>
 <div align="left"> 
   <h3> 💻 About Me </h3>
-
-  - 🌻 &nbsp; Always trying to learn something.
-  - 👩🏽‍💻 &nbsp; Front End Development Coding Bootcamp.
-  - 🥰 &nbsp; I’m currently working as a Frontend Developer. 
-  - 📚 &nbsp; Learning Nodejs at the moment.
+  Hi, I am a Frontend Developer transitioning to DevOps Engineer and here, I will be sharing about my journey to the Cloud ☁️ 👩🏽‍💻
 </div> 
 </div>
 
