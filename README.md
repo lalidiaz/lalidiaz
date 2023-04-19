@@ -3,7 +3,7 @@
 <div>
 <div align="left"> 
   <h3> 💻 About Me </h3>
-  Hi, I am a Frontend Developer transitioning to DevOps Engineer and here, I will be sharing about my journey to the Cloud ☁️ 👩🏽‍💻
+  Hi, I am a Frontend Developer 💻
 </div> 
 </div>
 
