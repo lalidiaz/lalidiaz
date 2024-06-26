@@ -15,14 +15,6 @@
   </section>
 
   <section>
-    <h2>☁️ Transitioning to Cloud Engineering</h2>
-    <p>
-      Currently the sole Frontend Developer in a dynamic Fintech team, I'm expanding my skills into Cloud Engineering as
-      part of my commitment to continuous development and embracing new challenges.
-    </p>
-  </section>
-
-  <section>
     <h2>🚀 Technical Blog Highlights</h2>
     <p>
       Join me on my <a href="link-to-your-blog" target="_blank">blog</a> as I share the highs and lows of my journey into
