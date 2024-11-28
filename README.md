@@ -17,7 +17,7 @@
   <section>
     <h2>🚀 Technical Blog Highlights</h2>
     <p>
-      Join me on my <a href="link-to-your-blog" target="_blank">blog</a> as I share the highs and lows of my journey into
+      Join me on my <a href="https://laurainthecloud.hashnode.dev/" target="_blank">blog</a> as I share the highs and lows of my journey into
       cloud infrastructure and DevOps practices.
     </p>
   </section>
