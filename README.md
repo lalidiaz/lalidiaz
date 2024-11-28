@@ -36,7 +36,7 @@
 
  
   <footer>
-    <p>Thank you for stopping by, and I look forward to connecting with you in the exciting world of technology! 🚀</p>
+    <p>Thank you for stopping 🙃</p>
   </footer>
 
 </body>
