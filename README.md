@@ -9,8 +9,13 @@
   <section>
     <h2>👩🏽‍💻 About Me</h2>
     <p>
-      Hi, I'm Laura Diaz, a Frontend Developer passionate about creating user-friendly experiences since 2020. My toolkit
-      includes JavaScript, React.js, TypeScript, Node.js, HTML, CSS, and SQL.
+      Hi, I'm Laura Diaz, a passionate Frontend Developer with 3+ years of experience building scalable, high-
+      performance web applications. I'
+      ve enhanced data collection efficiency, designed user-
+      friendly interfaces, and developed automation services that streamline operations. My
+      expertise includes developing React applications, Node.js APIs and creating data
+      visualization tools. Dedicated to continuous learning, I hold an AWS Cloud Practitioner
+      certificate.
     </p>
   </section>
 
