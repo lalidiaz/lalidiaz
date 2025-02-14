@@ -28,11 +28,6 @@
     </p>
   </section>
 
- 
-  <footer>
-    <p>Thank you for stopping 🙃</p>
-  </footer>
-
 </body>
 
 
