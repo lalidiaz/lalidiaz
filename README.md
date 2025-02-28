@@ -6,9 +6,7 @@
   <section>
     <p>
       Hello! I'm Laura Diaz.   </p>
-         <p> I'm a Cloud Engineer Jr with over 3+ years of experience in Frontend Development, now actively transitioning into Cloud Engineering. I hold an AWS Cloud Practitioner certification          and continuously expand my knowledge of AWS services. Through an intensive DevOps Bootcamp, I've gained hands-on experience in containerizing applications with Docker, creating     
-      Kubernetes configurations for microservices, and automating deployments. I document my technical journey on my blog, believing that knowledge sharing is a powerful tool for both 
-      community growth and personal development.
+         <p> I'm a Frontend Developer with 4 years of experience crafting web applications in the React ecosystem. What drives me is building sophisticated solutions that solve real problems - from admin dashboards to real-time platforms with complex data filtering. Beyond frontend, I have experience working across the full stack with Node.js and MongoDB to create complete, scalable applications. I'm also highly interested in cloud engineering and have solidified my practical experience through a DevOps bootcamp and AWS Cloud Practitioner certification. This technical foundation allows me to bridge development and infrastructure needs effectively.
     </p>
   </section>
 
