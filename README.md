@@ -6,8 +6,7 @@
   <section>
     <p>
       Hello! I'm Laura Diaz.   </p>
-         <p> I'm a Frontend Developer with 4 years of experience crafting web applications in the React ecosystem. What drives me is building sophisticated solutions that solve real problems - from admin dashboards to real-time platforms with complex data filtering. Beyond frontend, I have experience working across the full stack with Node.js and MongoDB to create complete, scalable applications. I'm also highly interested in cloud engineering and have solidified my practical experience through a DevOps bootcamp and AWS Cloud Practitioner certification. This technical foundation allows me to bridge development and infrastructure needs effectively.
-    </p>
+         <p>I'm a Frontend Developer with 4 years in the React ecosystem where I've built all kinds of cool stuff, from complex admin dashboards to data-heavy platforms with filtering systems that actually solve real problems. I'm still passionate about frontend work, but I've recently expanded my skills into the cloud space. I got my AWS Cloud Practitioner certification and invested time in a hands-on DevOps bootcamp. This broader perspective helps me build better frontend solutions that play nicely with modern infrastructure. I love sharing what I learn along the way on my blog. There's something powerful about teams that openly exchange ideas and knowledge, that's where the best products come from!  </p>
   </section>
 
   <section>
