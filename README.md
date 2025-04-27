@@ -14,6 +14,7 @@
     <p>
       Contact me at <a href="mailto:lauradiaz1586@gmail.com">lauradiaz1586@gmail.com</a> 💻🚀
     </p>
+<a target="_blank" href="https://lauradiazdev.com/en">My Portfolio</a>
   </section>
 
   <section>
