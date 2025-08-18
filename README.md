@@ -1,12 +1,15 @@
 <body>
-  <header>
-    <h1>Welcome to my GitHub!</h1>
-  </header>
+
 
   <section>
-    <p>
-      Hello! I'm Laura Diaz.   </p>
-         <p>I'm a Frontend Developer with 4 years in the React ecosystem where I've built all kinds of cool stuff, from complex admin dashboards to data-heavy platforms with filtering systems that actually solve real problems. I'm still passionate about frontend work, but I've recently expanded my skills into the cloud space. I got my AWS Cloud Practitioner certification and invested time in a hands-on DevOps bootcamp. This broader perspective helps me build better frontend solutions that play nicely with modern infrastructure. I love sharing what I learn along the way on my blog. There's something powerful about teams that openly exchange ideas and knowledge, that's where the best products come from!  </p>
+    <h1>
+      Hello! I'm Laura Diaz  </h1>
+	  <h2>DevOps Engineer ☁️</h2>
+         <p>
+
+
+I'm a DevOps Engineer with a background in software development, where I spent 4+ years creating user-friendly, accessible interfaces. That hands-on coding experience still shapes how I approach infrastructure today, with empathy for developers and a focus on delivering smooth user experiences from the ground up.
+</p>
   </section>
 
   <section>
