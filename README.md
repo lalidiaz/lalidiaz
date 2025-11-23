@@ -7,7 +7,7 @@
          <p>
 
 
-I'm a DevOps Engineer ☁️ with a background in software development, where I spent 4+ years creating user-friendly, accessible interfaces. That hands-on coding experience still shapes how I approach infrastructure today, with empathy for developers and a focus on delivering smooth user experiences from the ground up.
+I'm a DevOps Engineer with a background in software development, where I spent 4+ years creating user-friendly, accessible interfaces. That hands-on coding experience still shapes how I approach infrastructure today, with empathy for developers and a focus on delivering smooth user experiences from the ground up.
 </p>
   </section>
 
@@ -16,7 +16,8 @@ I'm a DevOps Engineer ☁️ with a background in software development, where I 
     <p>
       Contact me at <a href="mailto:lauradiaz1586@gmail.com">lauradiaz1586@gmail.com</a> 💻🚀
     </p>
-<a target="_blank" href="https://lauradiazdev.com/en">My Portfolio</a>
+	  
+<a target="_blank" href="https://lauradevops.vercel.app/en">My Portfolio</a>
   </section>
 
   <section>
@@ -39,11 +40,3 @@ I'm a DevOps Engineer ☁️ with a background in software development, where I 
 
    </section>
 </body>
-
-
-
-
-
-  
- 
-</div> 
