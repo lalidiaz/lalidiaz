@@ -3,11 +3,11 @@
 
   <section>
     <h1>
-      Hello! I'm Laura Diaz  </h1>
+      Hello! I'm Laura Diaz</h1>
          <p>
 
 
-I'm a DevOps Engineer with a background in software development, where I spent 4+ years creating user-friendly, accessible interfaces. That hands-on coding experience still shapes how I approach infrastructure today, with empathy for developers and a focus on delivering smooth user experiences from the ground up.
+I'm a DevOps Engineer and AWS Community Builder with a background in software development, where I spent 4+ years creating user-friendly, accessible interfaces. That hands-on coding experience still shapes how I approach infrastructure today, with empathy for developers and a focus on delivering smooth user experiences from the ground up.
 </p>
   </section>
 
